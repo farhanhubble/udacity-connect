@@ -1,0 +1,7 @@
+*.swp
+checkpoints/
+events.out.tfevents.*
+.ipynb_checkpoints/
+__pycache__/
+*.npy
+*.csv
